@@ -3,7 +3,7 @@
     <v-row class="text-center">
       <v-col cols="12">
       <section>
-        <v-parallax src="https://picsum.photos/600?random" height="600">
+        <v-parallax src="https://picsum.photos/1920/1080?random" height="600">
           <v-layout
             column
             align-center
